@@ -18,7 +18,9 @@ public class MainWindow {
 		System.out.println("---- Dictionary ----");
 		System.out.println("--Are these words?--");
 		System.out.println("These: " + storage.spellCheck("these"));
+		System.out.println("Thesse: " + storage.spellCheck("thesse"));
 		System.out.println("are: " + storage.spellCheck("are"));
+		System.out.println("areee: " + storage.spellCheck("areee"));
 		System.out.println("book: " + storage.spellCheck("book"));
 		System.out.println("asdf: " + storage.spellCheck("asdf"));
 		System.out.println("about: " + storage.spellCheck("about"));
