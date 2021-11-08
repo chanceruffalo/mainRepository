@@ -5,7 +5,7 @@ public class BiSearchTree {
 	//CONSTRUCTOR - SETS ANS WITH USER FRIENDLY INFORMATION
 	public BiSearchTree() {
 		root = null;
-		ans = "Methods will only show the first 3 letters";
+		ans = "Methods will show full name.";
 	}
 
 	public void addNode(String str) {
